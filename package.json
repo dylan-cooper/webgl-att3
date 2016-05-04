@@ -1,0 +1,16 @@
+{
+  "name": "att3",
+  "version": "1.0.0",
+  "description": "Attempt 3 of a demo with webgl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Cooper",
+  "license": "MIT",
+  "dependencies": {
+    "browserify-shader": "^0.1.2",
+    "canvas-splitter": "0.0.2",
+    "lut": "^0.2.0"
+  }
+}
